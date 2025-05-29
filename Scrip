@@ -1,0 +1,3 @@
+function ucapan() {
+  alert("Halo, senang berkenalan dengan kamu!");
+}
